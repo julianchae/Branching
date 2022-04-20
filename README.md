@@ -9,6 +9,10 @@ hey this is the new branch stuff
 git rocks
 socks and croc
 
+save it
+command s save
+change readme
+
 * 'git init' -initialize a local git repo
 * 'git add filenName ' -stage files/folders for commit
 * 'git add .' - stage current folder for commit
