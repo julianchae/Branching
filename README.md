@@ -1,5 +1,7 @@
 ## GIT CHEAT SHEET
 ## overview of git Commands
+
+add text merge conflict
 ### Basic Commands
 
 
