@@ -1,5 +1,7 @@
 ## GIT CHEAT SHEET
 ## overview of git Commands
+
+add text merge conflict
 ### Basic Commands
 * 'git init' -initialize a local git repo
 * 'git add filenName ' -stage files/folders for commit
