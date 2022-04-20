@@ -1,6 +1,12 @@
 ## GIT CHEAT SHEET
 ## overview of git Commands
 ### Basic Commands
+
+
+hey this is the new branch stuff
+git rocks
+socks and croc
+
 * 'git init' -initialize a local git repo
 * 'git add filenName ' -stage files/folders for commit
 * 'git add .' - stage current folder for commit
